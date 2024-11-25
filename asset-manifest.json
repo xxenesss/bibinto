@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bibinto/static/css/main.a8082f67.css",
+    "main.js": "/bibinto/static/js/main.6faab9f6.js",
+    "static/js/952.a940161e.chunk.js": "/bibinto/static/js/952.a940161e.chunk.js",
+    "index.html": "/bibinto/index.html",
+    "static/media/telegram.svg": "/bibinto/static/media/telegram.8f3f71a11f9dc042d4b3a045e0c79c0e.svg",
+    "main.a8082f67.css.map": "/bibinto/static/css/main.a8082f67.css.map",
+    "main.6faab9f6.js.map": "/bibinto/static/js/main.6faab9f6.js.map",
+    "952.a940161e.chunk.js.map": "/bibinto/static/js/952.a940161e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8082f67.css",
+    "static/js/main.6faab9f6.js"
+  ]
+}
